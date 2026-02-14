@@ -1,5 +1,4 @@
 # ConsecutiveSquares
-# consecutive
 
 [![Package Version](https://img.shields.io/hexpm/v/consecutive)](https://hex.pm/packages/consecutive)
 [![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/consecutive/)
