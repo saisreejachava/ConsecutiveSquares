@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # ConsecutiveSquares
-=======
 # consecutive
 
 [![Package Version](https://img.shields.io/hexpm/v/consecutive)](https://hex.pm/packages/consecutive)
@@ -25,4 +23,3 @@ Further documentation can be found at <https://hexdocs.pm/consecutive>.
 gleam run   # Run the project
 gleam test  # Run the tests
 ```
->>>>>>> ba37317 (Initial commit - ConsecutiveSquares)
